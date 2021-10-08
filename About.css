@@ -1,0 +1,13 @@
+#container{
+	background-color: royalblue;
+}
+#div-2{
+	width: auto;
+	height: auto;
+	display: flex;
+}
+h1{
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
